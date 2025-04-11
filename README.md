@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/94CNizamudheen/LeetCode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
