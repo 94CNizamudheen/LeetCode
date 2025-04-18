@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/94CNizamudheen/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/94CNizamudheen/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/94CNizamudheen/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
