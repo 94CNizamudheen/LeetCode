@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/94CNizamudheen/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/94CNizamudheen/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/94CNizamudheen/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
