@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2288-count-operations-to-obtain-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2998-count-symmetric-integers](https://github.com/94CNizamudheen/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3371-harshad-number](https://github.com/94CNizamudheen/LeetCode/tree/master/3371-harshad-number) |
 ## Backtracking
 |  |
 | ------- |
