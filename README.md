@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/94CNizamudheen/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Math
 |  |
 | ------- |
