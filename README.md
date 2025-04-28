@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/94CNizamudheen/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Greedy
@@ -104,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/94CNizamudheen/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
