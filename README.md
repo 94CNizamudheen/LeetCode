@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/94CNizamudheen/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/94CNizamudheen/LeetCode/tree/master/1656-count-good-triplets) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
