@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
+| [0806-domino-and-tromino-tiling](https://github.com/94CNizamudheen/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 ## Tree
 |  |
 | ------- |
