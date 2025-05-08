@@ -163,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/94CNizamudheen/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
