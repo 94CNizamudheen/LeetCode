@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/94CNizamudheen/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/94CNizamudheen/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/94CNizamudheen/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/94CNizamudheen/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/94CNizamudheen/LeetCode/tree/master/0290-word-pattern) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/94CNizamudheen/LeetCode/tree/master/1500-count-largest-group) |
