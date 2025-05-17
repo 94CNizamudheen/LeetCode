@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/94CNizamudheen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/94CNizamudheen/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/94CNizamudheen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/94CNizamudheen/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/94CNizamudheen/LeetCode/tree/master/0196-delete-duplicate-emails) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/94CNizamudheen/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
