@@ -191,20 +191,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/94CNizamudheen/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/94CNizamudheen/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/94CNizamudheen/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/94CNizamudheen/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/94CNizamudheen/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/94CNizamudheen/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/94CNizamudheen/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Counting
 |  |
