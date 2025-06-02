@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/94CNizamudheen/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/94CNizamudheen/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/94CNizamudheen/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/94CNizamudheen/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
