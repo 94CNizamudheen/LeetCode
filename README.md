@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
+| [0228-summary-ranges](https://github.com/94CNizamudheen/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/94CNizamudheen/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
