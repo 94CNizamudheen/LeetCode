@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/94CNizamudheen/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/3321-type-of-triangle) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/94CNizamudheen/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Database
 |  |
 | ------- |
