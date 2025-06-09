@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/94CNizamudheen/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/94CNizamudheen/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/94CNizamudheen/LeetCode/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/94CNizamudheen/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/94CNizamudheen/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Database
 |  |
