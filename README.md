@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/94CNizamudheen/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/94CNizamudheen/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/94CNizamudheen/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/94CNizamudheen/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/94CNizamudheen/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/94CNizamudheen/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -117,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/94CNizamudheen/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/94CNizamudheen/LeetCode/tree/master/0290-word-pattern) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/94CNizamudheen/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/94CNizamudheen/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/94CNizamudheen/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
