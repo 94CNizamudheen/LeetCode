@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/94CNizamudheen/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/94CNizamudheen/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/94CNizamudheen/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/94CNizamudheen/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/94CNizamudheen/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/94CNizamudheen/LeetCode/tree/master/3371-harshad-number) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/94CNizamudheen/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/94CNizamudheen/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
