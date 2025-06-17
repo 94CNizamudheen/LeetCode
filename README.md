@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/94CNizamudheen/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
+| [0119-pascals-triangle-ii](https://github.com/94CNizamudheen/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/94CNizamudheen/LeetCode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/94CNizamudheen/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/94CNizamudheen/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/94CNizamudheen/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
