@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/94CNizamudheen/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/94CNizamudheen/LeetCode/tree/master/0495-teemo-attacking) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/94CNizamudheen/LeetCode/tree/master/0495-teemo-attacking) |
 | [2048-build-array-from-permutation](https://github.com/94CNizamudheen/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2288-count-operations-to-obtain-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Two Pointers
