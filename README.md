@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/94CNizamudheen/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/94CNizamudheen/LeetCode/tree/master/0495-teemo-attacking) |
+| [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/94CNizamudheen/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/94CNizamudheen/LeetCode/tree/master/0409-longest-palindrome) |
+| [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1256-rank-transform-of-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/94CNizamudheen/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/94CNizamudheen/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
