@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/94CNizamudheen/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/94CNizamudheen/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/94CNizamudheen/LeetCode/tree/master/0495-teemo-attacking) |
 | [2048-build-array-from-permutation](https://github.com/94CNizamudheen/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
