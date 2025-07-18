@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/94CNizamudheen/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/94CNizamudheen/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/94CNizamudheen/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/3321-type-of-triangle) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/94CNizamudheen/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/94CNizamudheen/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/94CNizamudheen/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/94CNizamudheen/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
