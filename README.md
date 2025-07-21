@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/94CNizamudheen/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/94CNizamudheen/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/94CNizamudheen/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/94CNizamudheen/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/94CNizamudheen/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
