@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/94CNizamudheen/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1656-count-good-triplets](https://github.com/94CNizamudheen/LeetCode/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/94CNizamudheen/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/94CNizamudheen/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/94CNizamudheen/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1813-maximum-erasure-value](https://github.com/94CNizamudheen/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/94CNizamudheen/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/94CNizamudheen/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
