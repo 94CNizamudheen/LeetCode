@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/94CNizamudheen/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/94CNizamudheen/LeetCode/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/94CNizamudheen/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/94CNizamudheen/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1256-rank-transform-of-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/94CNizamudheen/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/94CNizamudheen/LeetCode/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/94CNizamudheen/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
