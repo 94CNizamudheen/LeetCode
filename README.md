@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/94CNizamudheen/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3227-find-missing-and-repeated-values](https://github.com/94CNizamudheen/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/94CNizamudheen/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/3321-type-of-triangle) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/94CNizamudheen/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/94CNizamudheen/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/94CNizamudheen/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/94CNizamudheen/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/94CNizamudheen/LeetCode/tree/master/3371-harshad-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/94CNizamudheen/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/94CNizamudheen/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/94CNizamudheen/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/94CNizamudheen/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
