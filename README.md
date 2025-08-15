@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/94CNizamudheen/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/94CNizamudheen/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/94CNizamudheen/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/94CNizamudheen/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/94CNizamudheen/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/94CNizamudheen/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/94CNizamudheen/LeetCode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/94CNizamudheen/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/94CNizamudheen/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/94CNizamudheen/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/94CNizamudheen/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
