@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/94CNizamudheen/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/94CNizamudheen/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/94CNizamudheen/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/94CNizamudheen/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/94CNizamudheen/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/94CNizamudheen/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/94CNizamudheen/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/94CNizamudheen/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/94CNizamudheen/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/94CNizamudheen/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/94CNizamudheen/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/94CNizamudheen/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/94CNizamudheen/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/94CNizamudheen/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/94CNizamudheen/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/94CNizamudheen/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
