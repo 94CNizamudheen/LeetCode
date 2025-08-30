@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/94CNizamudheen/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/94CNizamudheen/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/94CNizamudheen/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/94CNizamudheen/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/94CNizamudheen/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/94CNizamudheen/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0136-single-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/94CNizamudheen/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/94CNizamudheen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/94CNizamudheen/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/94CNizamudheen/LeetCode/tree/master/0171-excel-sheet-column-number) |
