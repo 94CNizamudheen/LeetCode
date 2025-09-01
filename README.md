@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/94CNizamudheen/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/94CNizamudheen/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/94CNizamudheen/LeetCode/tree/master/0851-goat-latin) |
+| [1078-remove-outermost-parentheses](https://github.com/94CNizamudheen/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/94CNizamudheen/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/94CNizamudheen/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/94CNizamudheen/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/94CNizamudheen/LeetCode/tree/master/0143-reorder-list) |
+| [1078-remove-outermost-parentheses](https://github.com/94CNizamudheen/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
