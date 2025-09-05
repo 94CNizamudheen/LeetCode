@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/94CNizamudheen/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/94CNizamudheen/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/94CNizamudheen/LeetCode/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/94CNizamudheen/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0837-most-common-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/94CNizamudheen/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
