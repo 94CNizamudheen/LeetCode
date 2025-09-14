@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/94CNizamudheen/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0940-fruit-into-baskets](https://github.com/94CNizamudheen/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/94CNizamudheen/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/94CNizamudheen/LeetCode/tree/master/1287-distance-between-bus-stops) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/94CNizamudheen/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/94CNizamudheen/LeetCode/tree/master/0851-goat-latin) |
+| [1006-vowel-spellchecker](https://github.com/94CNizamudheen/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/94CNizamudheen/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/94CNizamudheen/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/94CNizamudheen/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/94CNizamudheen/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/94CNizamudheen/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/94CNizamudheen/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1500-count-largest-group](https://github.com/94CNizamudheen/LeetCode/tree/master/1500-count-largest-group) |
