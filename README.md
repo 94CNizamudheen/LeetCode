@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/94CNizamudheen/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/94CNizamudheen/LeetCode/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/94CNizamudheen/LeetCode/tree/master/1642-water-bottles) |
 | [1965-sum-of-digits-in-base-k](https://github.com/94CNizamudheen/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/94CNizamudheen/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/94CNizamudheen/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/94CNizamudheen/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/94CNizamudheen/LeetCode/tree/master/0495-teemo-attacking) |
+| [1642-water-bottles](https://github.com/94CNizamudheen/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/94CNizamudheen/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/94CNizamudheen/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
