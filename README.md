@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/94CNizamudheen/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/94CNizamudheen/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/94CNizamudheen/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/94CNizamudheen/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0940-fruit-into-baskets](https://github.com/94CNizamudheen/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/94CNizamudheen/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/94CNizamudheen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/94CNizamudheen/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/94CNizamudheen/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/94CNizamudheen/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/94CNizamudheen/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/94CNizamudheen/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/94CNizamudheen/LeetCode/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/94CNizamudheen/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
